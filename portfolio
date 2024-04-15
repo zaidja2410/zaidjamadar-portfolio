@@ -1,0 +1,532 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+
+    <!-- Site Title -->
+    <title>Zaid Jamadar - Portfolio</title>
+
+    <!-- Place favicon.ico in the root directory -->
+    <link rel="apple-touch-icon" href="./assets/img/favicon.png">
+    <link rel="shortcut icon" type="image/png" href="./assets/img/favicon.png">
+
+    <!-- CSS here -->
+    <link rel="stylesheet" href="assets/css/animate.min.css">
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/font-awesome-pro.min.css">
+    <link rel="stylesheet" href="assets/css/flaticon_gerold.css">
+    <link rel="stylesheet" href="assets/css/nice-select.css">
+    <link rel="stylesheet" href="assets/css/backToTop.css">
+    <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="assets/css/odometer-theme-default.css">
+    <link rel="stylesheet" href="assets/css/magnific-popup.css">
+
+    <link rel="stylesheet" href="assets/css/main.css">
+    <link rel="stylesheet" href="assets/css/light-mode.css">
+    <link rel="stylesheet" href="assets/css/responsive.css">
+</head>
+<body>
+
+    <!-- Preloader Area Start -->
+    <!-- Preloader Area End -->
+    <!-- start: Back To Top -->
+    <div class="preloader" style="translate: none; rotate: none; scale: none; transform: translate(0px, -1500px); display: none; z-index: -1;">
+        <svg viewBox="0 0 1000 1000" preserveAspectRatio="none">
+            <path id="preloaderSvg" d="M0 2S175 1 500 1s500 1 500 1V0H0Z"></path>
+        </svg>
+
+        <div class="preloader-heading">
+            <div class="load-text" style="translate: none; rotate: none; scale: none; opacity: 0; transform: translate(0px, -100px);">
+                <span>Z</span>
+                <span>A</span>
+                <span>I</span>
+                <span>D</span>
+                <span>_</span>
+                <span>P</span>
+                <span>O</span>
+                <span>R</span>
+                <span>T</span>
+                <span>F</span>
+                <span>O</span>
+                <span>L</span>
+                <span>I</span>
+                <span>O</span>
+            </div>
+        </div>
+    </div><div class="progress-wrap active-progress" id="scrollUp">
+        <svg class="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">
+            <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" style="transition: stroke-dashoffset 10ms linear 0s; stroke-dasharray: 307.919, 307.919; stroke-dashoffset: 226.535;"></path>
+        </svg>
+    </div>
+    <!-- end: Back To Top -->
+    <!-- HEADER START -->
+    <header class="tj-header-area header-absolute">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 d-flex flex-wrap align-items-center">
+
+                    <div class="logo-box">
+                        <h2>Zaid &nbsp;&nbsp; Jamadar</h2>
+                    </div>
+
+                    <div class="header-info-list d-none d-md-inline-block">
+                        <!--<ul class="ul-reset">
+                            <li><a href="mailto:mail@gerolddesign.com">mail@gerolddesign.com</a></li>
+                        </ul>-->
+                    </div>
+
+                    <div class="header-menu">
+                        <nav>
+                            <ul>
+                                <li class=""><a href="#self-section">Self</a></li>
+                                <li class="current-menu-ancestor"><a href="#skill-section">Skill</a></li>
+                                <li class=""><a href="#project-section">Project</a></li>
+                                <li class=""><a href="#education-section">Education</a></li>
+                                <li class=""><a href="#ahivements-section">Achivements</a></li>
+                                <li class=""><a href="#contact-section">Contact</a></li>
+                            </ul>
+                        </nav>
+                    </div>
+
+                    <div class="header-button">
+                        <!--<a href="#" class="btn tj-btn-primary">Hire me!</a>-->
+                    </div>
+
+                    <div class="menu-bar d-lg-none">
+                        <button>
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <header class="tj-header-area header-2 header-sticky sticky">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 d-flex flex-wrap align-items-center">
+
+                    <div class="logo-box">
+                        <a href="index.html">
+                            <!--<img src="assets/img/logo/logo.png" alt="">-->
+                            <h2>Zaid &nbsp;&nbsp; Jamadar</h2>
+                        </a>
+                    </div>
+
+                    <div class="header-info-list d-none d-md-inline-block">
+                        <!--<ul class="ul-reset">
+                            <li><a href="mailto:mail@gerolddesign.com">mail@gerolddesign.com</a></li>
+                        </ul>-->
+                    </div>
+
+                    <div class="header-menu">
+                        <nav>
+                            <ul>
+                                <li class=""><a href="#self-section">Self</a></li>
+                                <li class="current-menu-ancestor"><a href="#skill-section">Skill</a></li>
+                                <li class=""><a href="#project-section">Project</a></li>
+                                <li class=""><a href="#education-section">Education</a></li>
+                                <li class=""><a href="#ahivements-section">Achivements</a></li>
+                                <li class=""><a href="#contact-section">Contact</a></li>
+                            </ul>
+                        </nav>
+                    </div>
+
+                    <div class="header-button">
+                        <!--<a href="#" class="btn tj-btn-primary">Hire me!</a>-->
+                    </div>
+
+                    <div class="menu-bar d-lg-none">
+                        <button>
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- HEADER END -->
+
+    <main class="site-content" id="self-section">
+        <!-- HERO SECTION START -->
+        <section class="hero-section d-flex align-items-center" id="intro">
+            <!--<div class="intro_text">
+                <svg viewBox="0 0 1320 300">
+                    <text x="50%" y="50%" text-anchor="middle" class="animate-stroke">
+                        HI
+                    </text>
+                </svg>
+            </div>-->
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-md-6">
+                        <div class="hero-content-box">
+                            <span class="hero-sub-title">I am Zaid</span>
+                            <h1 class="hero-title">
+                                B.Tech C.S.<br /> Student
+                            </h1>
+
+                            <div class="hero-image-box d-md-none text-center">
+                                <img src="assets/zaid_profile.jpg" alt="">
+                            </div>
+
+                            <p class="lead">
+                                As a dedicated B.Tech Computer Science student, my goal is to leverage my academic knowledge and passion for technology to pursue a career where I can contribute innovative solutions, continuously learn and grow, and make meaningful contributions to the field of computer science.
+                            </p>
+                            <div class="button-box d-flex flex-wrap align-items-center">
+                                <!--<a href="#" class="btn tj-btn-secondary">
+                                    Download
+                                    CV <i class="flaticon-download"></i>
+                                </a>-->
+                                <ul class="ul-reset social-icons">
+                                    <li><a href="https://www.facebook.com/zaid.jamadar.562?mibextid=LQQJ4d" target="_blank"><i class="fa-brands fa-facebook"></i></a></li>
+                                    <li><a href="https://www.instagram.com/invites/contact/?i=19t8euqdktzd9&utm_content=5wlurcy" target="_blank"><i class="fa-brands fa-instagram"></i></a></li>
+                                    <li><a href="https://www.linkedin.com/in/zaid-jamadar-30636b250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><i class="fa-brands fa-linkedin-in"></i></a></li>
+                                    <!--<li><a href="#"><i class="fa-brands fa-github"></i></a></li>-->
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 d-none d-md-block">
+                        <div class="hero-image-box text-center">
+                            <img src="assets/zaid_profile.jpg" alt="">
+                        </div>
+                    </div>
+                </div>
+
+                
+            </div>
+        </section>
+        <!-- HERO SECTION END -->
+        <!-- SKILLS SECTION START -->
+        <section class="skills-section" id="skill-section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="section-header text-center">
+                            <h2 class="section-title wow fadeInUp" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">My Skills</h2>
+                            <p class="wow fadeInUp" data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
+                                I started coding about 2 years ago and have enjoyed learning for the past 2 years. I am currently pursuing my degree, if you would like to hire me please use the contact form below to get in touch with me
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="skills-widget d-flex flex-wrap justify-content-center align-items-center">
+                            <div class="skill-item wow fadeInUp" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
+                                <div class="skill-inner">
+                                    <div class="icon-box">
+                                        <img src="assets/develop.png" alt="">
+                                    </div>
+                                    <div class="number">85%</div>
+                                </div>
+                                <p>C Programing</p>
+                            </div>
+                            <div class="skill-item wow fadeInUp" data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
+                                <div class="skill-inner">
+                                    <div class="icon-box">
+                                        <img src="assets/web-structure.gif" alt="">
+                                    </div>
+                                    <div class="number">80%</div>
+                                </div>
+                                <p>Data Structure</p>
+                            </div>
+                            <div class="skill-item wow fadeInUp" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInUp;">
+                                <div class="skill-inner">
+                                    <div class="icon-box">
+                                        <img src="assets/c-.png" alt="">
+                                    </div>
+                                    <div class="number">85%</div>
+                                </div>
+                                <p>C++</p>
+                            </div>
+                            <div class="skill-item wow fadeInUp" data-wow-delay=".6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
+                                <div class="skill-inner">
+                                    <div class="icon-box">
+                                        <img src="assets/java.png" alt="">
+                                    </div>
+                                    <div class="number">80%</div>
+                                </div>
+                                <p>Java Language</p>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- SKILLS SECTION END -->
+        <!-- PORTFOLIO SECTION START -->
+        <section class="portfolio-section" id="project-section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="section-header text-center">
+                            <h2 class="section-title wow fadeInUp" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">My Recent Projects</h2>
+                            <p class="wow fadeInUp" data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
+                                We put your ideas and thus your wishes in the
+                                form of a unique web project that inspires
+                                you
+                                and you customers.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="portfolio-filter text-center wow fadeInUp" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInUp;">
+                            <div class="button-group filter-button-group">
+                                <button data-filter="*" class=".portfolio-filter .button-group">All</button>
+                                <button data-filter=".uxui" class=".portfolio-filter .button-group">Web</button>
+                                <button data-filter=".branding" class=".portfolio-filter .button-group">Android</button>
+                                <!--<button data-filter=".mobile-app" class=".portfolio-filter .button-group active">Apps</button>-->
+                                <!--<div class="active-bg .portfolio-filter .button-group" style="left: 301.938px; width: 90.0625px;"></div>-->
+                            </div>
+                        </div>
+
+                        <div class="portfolio-box wow fadeInUp" data-wow-delay=".6s" style="position: relative; height: 529.187px; visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
+                            <div class="portfolio-sizer"></div>
+                            <div class="gutter-sizer"></div>
+                            <div class="portfolio-item branding" style="position: absolute; left: 0%; top: 50px; display: none;">
+                                <div class="image-box">
+                                    <img src="assets/android-project.jpeg" alt="">
+                                </div>
+                                <div class="content-box">
+                                    <h3 class="portfolio-title">Android</h3>
+                                    <p>Calculator Application.</p>
+                                    <i class="flaticon-up-right-arrow"></i>
+                                    <button data-mfp-src="#portfolio-wrapper" class="portfolio-link modal-popup"></button>
+                                </div>
+                            </div>
+                            <div class="portfolio-item uxui" style="position: absolute; left: 0%; top: 50px; display: none;">
+                                <div class="image-box">
+                                    <img src="assets/web-project.jpeg" alt="">
+                                </div>
+                                <div class="content-box">
+                                    <h3 class="portfolio-title">Library Management</h3>
+                                    <p>Project was about Liabrary Management.</p>
+                                    <i class="flaticon-up-right-arrow"></i>
+                                    <button data-mfp-src="#portfolio-wrapper" class="portfolio-link modal-popup"></button>
+                                </div>
+                            </div>
+                           
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- PORTFOLIO SECTION END -->
+        
+        <!-- RESUME SECTION START -->
+        <section class="resume-section" id="education-section">
+            <div class="container">
+                <div class="row">
+
+
+                    <div class="col-md-12">
+                        <div class="section-header wow fadeInUp" data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
+                            <h2 class="section-title"><i class="flaticon-graduation-cap"></i> My Education</h2>
+                        </div>
+
+                        <div class="resume-widget">
+                            <div class="resume-item wow fadeInRight" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInRight;">
+                                <div class="time">
+                                    2019 - 2020
+                                </div>
+                                <h3 class="resume-title">SSC Board</h3>
+                                <div class="institute">
+                                    Alphonsa School Miraj (Shivaji University)
+                                </div>
+                            </div>
+                            <div class="resume-item wow fadeInRight" data-wow-delay=".6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInRight;">
+                                <div class="time">
+                                    2022 - 2023
+                                </div>
+                                <h3 class="resume-title">HSC Board</h3>
+                                <div class="institute">
+                                    Bapuji Salunke Mahavidyalaya Miraj (Shivaji University)
+                                </div>
+                            </div>
+                            <div class="resume-item wow fadeInRight" data-wow-delay=".7s" style="visibility: visible; animation-delay: 0.7s; animation-name: fadeInRight;">
+                                <div class="time">
+                                    2023 - present
+                                </div>
+                                <h3 class="resume-title">Pursuing B.Tech</h3>
+                                <div class="institute">
+                                    Sanjay Ghodawat University
+                                </div>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- RESUME SECTION END -->
+        <!-- BLOG SECTION STAR -->
+        <section class="blog-section" id="ahivements-section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="section-header text-center">
+                            <h2 class="section-title wow fadeInUp" data-wow-delay=".3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">Achivements</h2>
+                            <p class="wow fadeInUp" data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
+                                Successfully achieved milestones through dedication and perseverance,
+                                demonstrating proficiency in various skills and earning recognition for
+                                exceptional performance.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-4 col-md-6">
+                        <div class="blog-item wow fadeInUp" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInUp;">
+                            <div class="blog-thumb">
+                                <a href="blog-details.html">
+                                    <img src="assets/zaid-certificate-2.jpg" alt="">
+                                </a>
+                                <a href="#" class="category">Microsoft</a>
+                            </div>
+
+                            <div class="blog-content">
+                                <div class="blog-meta">
+                                    <ul class="ul-reset">
+                                        <li><i class="fa-light fa-calendar-days"></i> Mar 19, 2024</li>
+                                        <!--<li><i class="fa-light fa-comments"></i> <a href="#">Comment (0)</a></li>-->
+                                    </ul>
+                                </div>
+                                <h3 class="blog-title"><a href="blog-details.html">Azure AI Fundamentals</a></h3>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div class="blog-item wow fadeInUp" data-wow-delay=".6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInUp;">
+                            <div class="blog-thumb">
+                                <a href="blog-details.html">
+                                    <img src="assets/zaid-certificate-1.jpg" alt="">
+                                </a>
+                                <a href="#" class="category">IIT Bombay</a>
+                            </div>
+                            <div class="blog-content">
+                                <div class="blog-meta">
+                                    <ul class="ul-reset">
+                                        <li><i class="fa-light fa-calendar-days"></i> Mar 26, 2024</li>
+                                        <!--<li><i class="fa-light fa-comments"></i> <a href="#">Comment (0)</a></li>-->
+                                    </ul>
+                                </div>
+                                <h3 class="blog-title"><a href="blog-details.html">Placement Preparation Program</a></h3>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+        <!-- BLOG SECTION END -->
+
+    </main>
+    <!-- CONTACT SECTION START -->
+    <section class="contact-section" id="contact-section">
+        <div class="container">
+            <div class="row">
+              
+
+                <div class="col-lg-5 offset-lg-1 col-md-5  d-flex flex-wrap align-items-center  order-1 order-md-2">
+                    <div class="contact-info-list">
+                        <ul class="ul-reset">
+                            <li class="d-flex flex-wrap align-items-center position-relative wow fadeInRight" data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInRight;">
+                                <div class="icon-box">
+                                    <i class="flaticon-phone-call"></i>
+                                </div>
+                                <div class="text-box">
+                                    <p>Phone</p>
+                                    <a href="tel:9579658880">+91 9579658880</a>
+                                </div>
+                            </li>
+                            <li class="d-flex flex-wrap align-items-center position-relative wow fadeInRight" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInRight;">
+                                <div class="icon-box">
+                                    <i class="flaticon-mail-inbox-app"></i>
+                                </div>
+                                <div class="text-box">
+                                    <p>Email</p>
+                                    <a href="jamadarzaid09@gmail.com">jamadarzaid09@gmail.com</a>
+                                </div>
+                            </li>
+                            <li class="d-flex flex-wrap align-items-center position-relative wow fadeInRight" data-wow-delay=".6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInRight;">
+                                <div class="icon-box">
+                                    <i class="flaticon-location"></i>
+                                </div>
+                                <div class="text-box">
+                                    <p>Address</p>
+                                    <a href="#">Nipanikar Colony <br />Kupwad Road, Miraj</a>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- CONTACT SECTION END -->
+    <!-- FOOTER AREA START -->
+    <footer class="tj-footer-area">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 text-center">
+                    <div class="footer-logo-box">
+                        <h1>Z.J</h1>
+                    </div>
+                    <div class="footer-menu">
+                        <nav>
+                            <ul>
+                                <li class=""><a href="#self-section">Self</a></li>
+                                <li class=""><a href="#skill-section">Skill</a></li>
+                                <li class=""><a href="#project-section">Project</a></li>
+                                <li class=""><a href="#education-section">Education</a></li>
+                                <li class=""><a href="#ahivements-section">Achivements</a></li>
+                                <li class=""><a href="#contact-section">Contact</a></li>
+                            </ul>
+                        </nav>
+                    </div>
+                    <div class="copy-text">
+                        <p>© 2024 All rights reserved by <a href="#" target="_blank">ThemeJunction</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- FOOTER AREA END -->
+    <!-- CSS here -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/js/nice-select.min.js"></script>
+    <script src="assets/js/backToTop.js"></script>
+    <script src="assets/js/smooth-scroll.js"></script>
+    <script src="assets/js/appear.min.js"></script>
+    <script src="assets/js/wow.min.js"></script>
+    <script src="assets/js/gsap.min.js"></script>
+    <script src="assets/js/one-page-nav.js"></script>
+    <script src="assets/js/lightcase.js"></script>
+    <script src="assets/js/owl.carousel.min.js"></script>
+    <script src="assets/js/isotope.pkgd.min.js"></script>
+    <script src="assets/js/odometer.min.js"></script>
+    <script src="assets/js/magnific-popup.js"></script>
+    <script src="assets/js/validate.min.js"></script>
+
+    <script src="assets/js/main.js"></script>
+
+
+</body>
+</html>
